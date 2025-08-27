@@ -1,6 +1,6 @@
-mongodb+srv://fms_backend:..@backend.ejdxg.mongodb.net/?retryWrites=true&w=majority&appName=backend
+_mongodb+srv://fms_backend:..@backend.ejdxg.mongodb.net/?retryWrites=true&w=majority&appName=backend
 
-ua8bb8GKBS7LRV5K
-fms_backend
+_ua8bb8GKBS7LRV5K_
+fms_
 
 update jwt secret,samesite when acxcessing mobile app
